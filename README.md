@@ -1,0 +1,2 @@
+# shokran
+Decentralized Shokran platform
